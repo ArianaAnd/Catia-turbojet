@@ -1,2 +1,2 @@
 # Catia-turbojet
-Tema de proiectare o reprezinta constituirea unui model de turbojet pentru avion.
+The design theme is the establishment of a turbojet model for the aircraft.
