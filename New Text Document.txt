@@ -1,0 +1,40 @@
+Turbojet - Catia V5
+
+Parti componente
+-Elicea
+-Bara metalica(conectoare)
+-Carcasa
+-Aripa
+
+
+
+Elicea este integrata in bara metalica(conectoare).
+
+Sunt doua elice, una principala si una secundara.
+
+Bara metalica doar conteaza cele doua elici.
+
+Carcasa incorporeaza bara metalica si elicea.
+
+Aripa adauga un plus proiectului pentru a pune in valoare utilitatea acestuia.
+
+
+Turbojet - Catia V5
+
+Component parts
+-Propeller
+-Metal bar (connectors)
+-Housing
+-Wing
+
+
+
+The propeller is integrated in the metal bar (connectors).
+
+There are two propellers, one main and one secondary.
+
+The metal bar only counts two famous propellers.
+
+The housing incorporates the metal bar and the propeller.
+
+The wing adds a plus to the project for immediate useful value.
