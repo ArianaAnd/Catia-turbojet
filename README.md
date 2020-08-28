@@ -21,13 +21,13 @@ Some options used:
 
 
 
-![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/1.JPG)
+![Image of Project](https://github.com/ArianaAnd/Catia-turbojet/blob/master/1.JPG)
 
 
-![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/2.JPG)
+![Image of Project](https://github.com/ArianaAnd/Catia-turbojet/blob/master/2.JPG)
 
 
-![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/3.JPG)
+![Image of Project](https://github.com/ArianaAnd/Catia-turbojet/blob/master/3.JPG)
 
 
-![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/4.JPG)
+![Image of Project](https://github.com/ArianaAnd/Catia-turbojet/blob/master/4.JPG)
