@@ -18,3 +18,16 @@ Some options used:
 -Start - Mechanical Design - Wireframe and Surface Design - Revolution Surface Definition 
 
 -Drafting
+
+
+
+![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/1.JPG)
+
+
+![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/2.JPG)
+
+
+![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/3.JPG)
+
+
+![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/4.JPG)
